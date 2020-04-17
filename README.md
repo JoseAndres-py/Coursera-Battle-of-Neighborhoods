@@ -10,7 +10,9 @@ For the Toronto neighborhood data, a Wikipedia page exists that has all the info
 
 Once the data is in a structured format, you can replicate the analysis that we did to the New York City dataset to explore and cluster the neighborhoods in the city of Toronto.
 
-![github-small](Images_Results/3.png)
+<p align="center">
+  <img src="Images_Results/3.png" width="650" title="hover text">
+</p>
 
 Capstone Project - The Battle of Neighborhoods (Week 1)
 --------------------
@@ -18,7 +20,9 @@ Define a problem or an idea of your choice, where you would need to leverage the
 
 Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
 
-![github-small](Images_Results/6.png)
+<p align="center">
+  <img src="Images_Results/6.png" width="650" title="hover text">
+</p>
 
 Capstone Project - The Battle of Neighborhoods (Week 2)
 --------------------
@@ -35,9 +39,8 @@ Conclusion section where you conclude the report.
 
 3. Your choice of a presentation or blogpost. 
 
-![github-small](Images_Results/7.png)
-
 <p align="center">
-  <img src="Images_Results/7.png" width="350" title="hover text">
+  <img src="Images_Results/7.png" width="650" title="hover text">
 </p>
+
 
