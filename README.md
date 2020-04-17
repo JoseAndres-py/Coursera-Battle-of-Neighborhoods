@@ -10,11 +10,15 @@ For the Toronto neighborhood data, a Wikipedia page exists that has all the info
 
 Once the data is in a structured format, you can replicate the analysis that we did to the New York City dataset to explore and cluster the neighborhoods in the city of Toronto.
 
+![github-small](Images_Results/3.png)
+
 Capstone Project - The Battle of Neighborhoods (Week 1)
 --------------------
 Define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
 
 Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+
+![github-small](Images_Results/6.png)
 
 Capstone Project - The Battle of Neighborhoods (Week 2)
 --------------------
@@ -31,7 +35,5 @@ Conclusion section where you conclude the report.
 
 3. Your choice of a presentation or blogpost. 
 
-<p align="center">
-  <img src="https://grupoavante.org/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/t/o/toyo_open_country_at2_wo_11.jpg" width="250"/>
-</p>
+![github-small](Images_Results/7.png)
 
