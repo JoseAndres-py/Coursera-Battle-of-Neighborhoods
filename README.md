@@ -37,3 +37,7 @@ Conclusion section where you conclude the report.
 
 ![github-small](Images_Results/7.png)
 
+<p align="center">
+  <img src="Images_Results/7.png" width="350" title="hover text">
+</p>
+
